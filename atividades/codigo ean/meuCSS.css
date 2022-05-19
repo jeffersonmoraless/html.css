@@ -1,0 +1,17 @@
+
+body{
+    
+    background-image: linear-gradient(to left ,#0dd8e6be,#e9e50191,#048effb6);
+}
+h1{
+    padding: 8px;
+    border-radius: 15px;
+    width: 300px ;
+    margin: auto;
+    box-shadow: 10px 10px 15px rgba(132, 132, 218, 0.582);
+    background-image:linear-gradient(to top ,#FF7733 ,#3483FA 45%) ;
+    /* to right*/
+
+    color:#ffffff;
+    text-align: center;
+}
